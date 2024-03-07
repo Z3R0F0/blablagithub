@@ -1,0 +1,4 @@
+enum ApiType {
+  REST,
+  GRAPHQL,
+}

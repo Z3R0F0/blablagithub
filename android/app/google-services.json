@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "201126940133",
+    "project_id": "blablagithub",
+    "storage_bucket": "blablagithub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201126940133:android:2353d336d05e15c331b30c",
+        "android_client_info": {
+          "package_name": "com.z3r0f0.blablagithub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201126940133-iv4o3vlt572gotbosidvhu71ckd8p0ql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.z3r0f0.blablagithub",
+            "certificate_hash": "90fd948600ca4708d55c3057a2928b92605d90ef"
+          }
+        },
+        {
+          "client_id": "201126940133-aohg4jf414n4h7loaetfa4rf06v69ait.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6Idyug4YZGmoT-lY7-iBmVzdiPaVy6WI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201126940133-aohg4jf414n4h7loaetfa4rf06v69ait.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "201126940133-34hc86phgvud0p990k6ra4ur9uf0su8f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.z3r0f0.blablagithub"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

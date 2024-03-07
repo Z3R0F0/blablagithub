@@ -1,0 +1,55 @@
+name: blablagithub
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+
+  # Architecture
+  get_it: ^7.6.7
+  equatable: ^2.0.5
+  flutter_bloc: ^8.1.4
+
+  # Auth
+  firebase_core: ^2.26.0
+  firebase_auth: ^4.17.0
+  google_sign_in: ^6.2.1
+  sign_in_with_apple: ^6.0.0
+
+  # Network
+  dio: ^5.4.1
+  retrofit: ^4.1.0
+  graphql_flutter: ^5.1.2
+
+  # Other
+  json_annotation: ^4.8.1
+  logger: ^2.1.0
+  flutter_inset_box_shadow: ^1.0.8
+
+  # Test
+  mockito: ^5.4.4
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.1
+  build_runner: ^2.4.8
+  json_serializable: ^6.7.1
+  retrofit_generator: ^8.1.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/icons/
+
