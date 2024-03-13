@@ -1,4 +1,6 @@
 
+BlaBlaGitHub is used to search github repos using public rest and graphql apis. 
+
 1. Go to lib/constants/config.dart
 2. Paste your new generated access git token from https://github.com/settings/personal-access-tokens
 3. pub get
